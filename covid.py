@@ -33,8 +33,8 @@ print(pre_day)
 
 
 
-# LINE Notifyのアクセス（自分が発行したトークンへ変更）
-line_notify_token = 'hcH904pGAtXqsiAnlS2HtOzvtqb1BYE0xvZ1UeWnFFB'
+# LINE Notifyのアクセス
+line_notify_token = '自分が発行したトークンへ変更'
 # LINE NotifyのAPIアドレス（このままでOK）
 line_notify_api = 'https://notify-api.line.me/api/notify'
 
